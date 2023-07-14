@@ -29,7 +29,7 @@ label.ae.fa.label {
     border: 1px solid #fff!important;
     border-radius: 50px 50px 50px 50px;
 }
-
+#tlogins .btn-primary.mini.fl{margin-top: 4px;border-radius: 0px 0px 30px 30px!important;}
 .btn-primary {
     border-color: #ffffff!important;
     border-radius: 25px;
@@ -59,8 +59,8 @@ label.fl.label.loginstat{
     /* background: none!important; */
     background: #5cb85c!important;
     min-width: 25px!important;
-    border-radius: 25px!important;
-    margin-top: 241px!important;
+    border-radius: 1px!important;
+    margin-top: -97px!important;
 }
 ul.nav.nav-tabs>li>.fa-user-plus:before, ul.nav.nav-tabs>li>.fa-user:before, ul.nav.nav-tabs>li>.fa-user:before {
     float: right;
