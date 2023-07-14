@@ -94,13 +94,6 @@ div#tlogins ::-webkit-scrollbar {
 #tlogins .fitimg.fl.u-pic {
     height: 49px!important;
     width: 54px!important;
-    border-radius: 12px 0px 12px;
-    margin: 0 0 0 0;
-    border: 1px;
-    margin-top: -0.7px;
-    border-top: none;
-    border-bottom: none;
-    background-size: contain!important;
 }
 .fr.borderg, .fr.borderg a {
     border-radius: 15px!important;
