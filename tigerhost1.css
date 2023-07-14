@@ -5,10 +5,7 @@ ul.nav.nav-tabs>li.active>a {
 .broadcasters {
     background-image: linear-gradient( 90deg ,#34637e 0,#87b5cf 10%,#34637e 51%,#87b5cf 89%,#34637e 100%);
 }
-#tlogins .fitimg.fl.u-pic {
-    height: 46px!important;
-    width: 50px!important;
-}
+
 div#l2 input#pass1, div#l2 input#u2, div#l3 input#pass2, div#l3 input#u3 {
     width: 49%!important;
     padding: 0!important;
@@ -78,6 +75,7 @@ ul.nav.nav-tabs>li>.fa-user-plus:before, ul.nav.nav-tabs>li>.fa-user:before, ul.
     height: 30px!important;
     padding: 5px!important;
     margin: -3px;
+    display: none;
 }
 div#tlogins ::-webkit-scrollbar-button {
     width: 5px;
@@ -108,8 +106,8 @@ div#l1 input#u1, div#l3 button {
 }
 ul.nav.nav-tabs>li>a {
     color: #fff;
-    background-image: linear-gradient( 90deg ,#365269 0,#87b5cf 10%,#365269 51%,#87b5cf 89%,#365269 100%);
-    width: 38%;
+    background-image: linear-gradient( 270deg ,#365269 0,#87b5cf 10%,#365269 51%,#87b5cf 89%,#365269 100%);
+    width: 103%!important;
     margin: -1px 59px 6px 4px;
     background-color: #1f1f1f;
     border: 0;
